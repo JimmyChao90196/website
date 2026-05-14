@@ -52,6 +52,16 @@
 #  pageRef = "tags"
 #  weight = 30
 
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 10
+
+[[main]]
+  name = "Videos"
+  pageRef = "videos"
+  weight = 20
+
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
