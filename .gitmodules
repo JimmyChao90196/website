@@ -4,5 +4,5 @@
 	branch = main
 [submodule "public"]
 	path = public
-	url = git@github.com:JimmyChao90196/jimflow.github.io.git
+	url = git@github.com:JimmyChao90196/JimmyChao90196.github.io.git
 	branch = main
