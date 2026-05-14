@@ -5,22 +5,22 @@ weight = 1
 title = "Blowfish"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
-  rtl = false
-  dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+# logo = "img/logo.png"
+# secondaryLogo = "img/secondary-logo.png"
+# description = "My awesome website"
+# copyright = "Copy, _right?_ :thinking_face:"
 
 # [params.author]
-#   name = "Your name here"
-#   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
+name = "Jimmy Chao (Jun-Yu Zhao)"
+email = "myname90196@gmail.com"
+image = "https://avatars.githubusercontent.com/u/69179262?s=400&u=a89f29346d0ead86cad46a20d257c675deab9124&v=4"
+imageQuality = 96
+headline = "I'm only human"
+bio = "A little bit about you"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
