@@ -1,0 +1,45 @@
+#background-image {
+  animation: homepage-bg-drift 28s ease-in-out infinite alternate;
+  transform-origin: center;
+  will-change: transform;
+}
+
+body:not(:has(#background-image)) {
+  isolation: isolate;
+  background-color: transparent !important;
+}
+
+body:not(:has(#background-image)) > * {
+  position: relative;
+  z-index: 1;
+}
+
+body:not(:has(#background-image))::before {
+  content: "";
+  position: fixed;
+  inset: -32px;
+  z-index: 0;
+  pointer-events: none;
+  background:
+    linear-gradient(rgb(10 14 22 / 0.72), rgb(10 14 22 / 0.88)),
+    url("/img/home-technical-art-bg.png") center / cover no-repeat;
+  filter: blur(2px) saturate(1);
+  opacity: 0.5;
+  transform: scale(1.04);
+}
+
+@keyframes homepage-bg-drift {
+  from {
+    transform: scale(1.04) translate3d(-1.5%, -1%, 0);
+  }
+
+  to {
+    transform: scale(1.1) translate3d(1.5%, 1%, 0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #background-image {
+    animation: none;
+  }
+}
