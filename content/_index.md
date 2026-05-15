@@ -3,7 +3,7 @@ title: "Learning Lab"
 description: "A practical index for VEX, pipeline Python, rigging, motion graphics, and recent technical art projects."
 ---
 
-This site is organized as a small technical art library. Use the top navigation to jump into VEX, Python, Rigging, Motion Graphic workflows, or the latest project writeups.
+This site is organized as a small technical art library. Use the top navigation to jump into VEX, Python, Rigging, Motion Graphic workflows.
 
 
 ## How the mock content works
