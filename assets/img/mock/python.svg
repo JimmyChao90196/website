@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#162436"/>
+  <g font-family="Menlo, Consolas, monospace" font-size="54" fill="#cfe8ff">
+    <text x="90" y="170">def build_tool(context):</text>
+    <text x="150" y="250">nodes = hou.selectedNodes()</text>
+    <text x="150" y="330">for node in nodes:</text>
+    <text x="210" y="410">node.setColor(color)</text>
+    <text x="150" y="490">return publish(nodes)</text>
+  </g>
+  <rect x="90" y="560" width="1020" height="90" rx="18" fill="#0b111b"/>
+  <circle cx="150" cy="605" r="18" fill="#68d391"/>
+  <circle cx="210" cy="605" r="18" fill="#f6ad55"/>
+  <circle cx="270" cy="605" r="18" fill="#fc8181"/>
+</svg>

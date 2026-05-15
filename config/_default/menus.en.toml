@@ -55,12 +55,83 @@
 [[main]]
   name = "About"
   pageRef = "about"
-  weight = 10
+  weight = 90
 
 [[main]]
   name = "Videos"
   pageRef = "videos"
+  weight = 80
+
+[[main]]
+  name = "Vex"
+  pageRef = "vex"
+  weight = 10
+
+[[main]]
+  name = "Python"
+  pageRef = "python"
   weight = 20
+
+[[main]]
+  name = "Python for Houdini"
+  parent = "Python"
+  pageRef = "python/houdini"
+  weight = 10
+
+[[main]]
+  name = "Python for Maya"
+  parent = "Python"
+  pageRef = "python/maya"
+  weight = 20
+
+[[main]]
+  name = "Rigging"
+  pageRef = "rigging"
+  weight = 30
+
+[[main]]
+  name = "Rigging for Houdini"
+  parent = "Rigging"
+  pageRef = "rigging/houdini"
+  weight = 10
+
+[[main]]
+  name = "Rigging for Maya"
+  parent = "Rigging"
+  pageRef = "rigging/maya"
+  weight = 20
+
+[[main]]
+  name = "Motion Graphic"
+  pageRef = "motion-graphic"
+  weight = 40
+
+[[main]]
+  name = "AI Hybrid Workflow"
+  parent = "Motion Graphic"
+  pageRef = "motion-graphic/ai-hybrid"
+  weight = 10
+
+[[main]]
+  name = "Traditional Workflow"
+  parent = "Motion Graphic"
+  pageRef = "motion-graphic/traditional"
+  weight = 20
+
+[[main]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 50
+
+[[main]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 60
+
+[[main]]
+  name = "Series"
+  pageRef = "series"
+  weight = 70
 
 
 # -- Footer Menu --
