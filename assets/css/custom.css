@@ -43,6 +43,32 @@ body:not(:has(#background-image)) .single_hero_background {
   display: none !important;
 }
 
+.nested-menu {
+  z-index: 50;
+}
+
+.nested-menu:hover,
+.nested-menu:focus-within {
+  z-index: 1000;
+}
+
+.nested-menu .menuhide {
+  top: 100%;
+  left: 0;
+  z-index: 1000;
+  padding-top: 0.5rem;
+  pointer-events: none;
+}
+
+.nested-menu:hover .menuhide,
+.nested-menu:focus-within .menuhide {
+  pointer-events: auto;
+}
+
+.nested-menu .menuhide > div {
+  margin-top: 0 !important;
+}
+
 @keyframes homepage-bg-drift {
   from {
     transform: scale(1.04) translate3d(-1.5%, -1%, 0);
