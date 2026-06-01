@@ -4,7 +4,7 @@ date: 2026-06-01
 description: "A breakdown of how to manipulate packed geometry in Houdini — covering pivot re-definition, driven attributes, and applying scaling and translation animations."
 featureimage: "img/mock/mograph.svg"
 tags: ["motion-graphic", "workflow"]
-categories: ["Motion Graphic"]
+# categories: ["Motion Graphic"]
 series: ["Motion Design in Houdini"]
 series_order: 1
 showTableOfContents: true
@@ -17,7 +17,7 @@ showTaxonomies: true
 
 I recently took a motion design course on Rebelway, and I'd like to share some thoughts and insights on the techniques I learned. In this chapter, we will be working with packed geometry and how to apply transformations and scaling to it. Each individual button you see in the video consists of two distinct packed geometries.
 
-![Houdini Node Setup](/Manipulating%20packed%20geometry.jpg)
+![Houdini Node Setup](Manipulating_packed_geometry.jpg)
 
 ---
 
