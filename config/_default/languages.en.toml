@@ -20,7 +20,7 @@ email = "myname90196@gmail.com"
 image = "https://avatars.githubusercontent.com/u/69179262?s=400&u=a89f29346d0ead86cad46a20d257c675deab9124&v=4"
 imageQuality = 96
 headline = "Technical Artist / iOS Engineer / SCAD-bound"
-bio = "I make things explode in Houdini and write Swift code for a living. This site is where I document the Houdini side of things — VEX, FX, motion design, and whatever else I'm figuring out."
+# bio = "I make visual effect in Houdini and write iOS for a living. This site is where I document the Houdini side of things — VEX, FX, motion design, and whatever else I'm figuring out."
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },

@@ -1,10 +1,10 @@
 ---
 title: "Projects"
-description: "Recent project writeups and production experiments."
+description: "Commercial work and personal experiments — VFX, motion design, and technical setups done in Houdini."
 featureimage: "img/mock/project.svg"
 cardView: true
 groupByYear: false
 showSummary: true
 ---
 
-Project pages are what the homepage uses for the latest-project cards.
+Most of what's here is commercial work done at Moonshine Animation. A few are personal experiments where I was just trying to figure something out. Everything is built in **Houdini**, sometimes with Nuke for pre-comp.

@@ -12,13 +12,13 @@ showTaxonomies: true
 
 ## Overview
 
-All the VFX behind the scenes were done by **Moonshine Animation**. Big team on this one — I handled two effects: the ghost hands and faces coming out of the wall, and the glass shatter in the elevator.
+All the VFX behind the scenes was done by **Moonshine Animation**. Big team on this one — I handled two effects: the ghost hands and faces coming out of the wall, and the glass shatter in the elevator.
 
 ---
 
 ## Ghost Hands & Faces Wall
 
-Hands and faces pushing through a wall surface. Initially I want to achieve the effect without using vellum simulation. Then I realize that having an extra layer of motion is pretty nice. So I ended up blending to things together.
+Hands and faces pushing through a wall surface. Initially I wanted to achieve the effect without using Vellum simulation. Then I realized that having an extra layer of motion is pretty nice. So I ended up blending two things together.
 
 ![Houdini FX preview of the ghost wall geometry](cursed-bridge-fx-preview.png)
 
@@ -41,5 +41,6 @@ The nice thing about having it layered is the director can ask for changes and y
   </div>
 </div>
 
+The final comp with the actor below is the compositing team's work.
 
 ![Final comp with the actor — comp by the compositing team](cursed-bridge-glass-comp.png)
