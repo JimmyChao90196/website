@@ -2,7 +2,7 @@
 title: "ROG | RE:SET"
 date: 2026-05-10
 description: "A commercial VFX project produced at Moonshine Animation — particle simulations, lightning, fireworks, and stylized effects for the ROG RE:SET cinematic."
-featureimage: "feature.png"
+featureimage: "feature.webp"
 tags: ["houdini", "commercial"]
 showTableOfContents: true
 showTaxonomies: true
@@ -36,7 +36,7 @@ My role focused entirely on the **VFX side**: designing and simulating the effec
 
 The rainbow streaks appear on the live broadcast screen during the crowd sequence — a wave of colour washing over the tracks. The effect needed to feel vibrant and slightly surreal to match the cyberpunk aesthetic of the world.
 
-![Rainbow effect streaking across the live broadcast screen](rog-rainbow-effect.png)
+![Rainbow effect streaking across the live broadcast screen](rog-rainbow-effect.webp)
 
 ---
 
@@ -46,11 +46,11 @@ Two distinct fireworks moments in the spot. The first is a pixelated rainbow tra
 
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; margin:1.5rem 0;">
   <div>
-    <img src="rog-particle-fireworks.png" alt="Pixelated particle trail on the race track" style="width:100%; border-radius:6px;"/>
+    <img src="rog-particle-fireworks.webp" alt="Pixelated particle trail on the race track" style="width:100%; border-radius:6px;"/>
     <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Pixelated trail — race track sequence</p>
   </div>
   <div>
-    <img src="rog-fireworks-logo.png" alt="ROG logo formed in fireworks bursting in the night sky" style="width:100%; border-radius:6px;"/>
+    <img src="rog-fireworks-logo.webp" alt="ROG logo formed in fireworks bursting in the night sky" style="width:100%; border-radius:6px;"/>
     <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">ROG logo fireworks — hero beat</p>
   </div>
 </div>
@@ -63,33 +63,33 @@ The lightning and tron-like trail runs through several shots — from close on t
 
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; margin:1.5rem 0;">
   <div>
-    <img src="rog-lightning-character.png" alt="Red energy and lightning crackling around the character's face" style="width:100%; border-radius:6px;"/>
+    <img src="rog-lightning-character.webp" alt="Red energy and lightning crackling around the character's face" style="width:100%; border-radius:6px;"/>
     <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Character close-up — energy surge</p>
   </div>
   <div>
-    <img src="rog-lightning-highway.png" alt="Blue lightning bolts striking across a highway during a race" style="width:100%; border-radius:6px;"/>
+    <img src="rog-lightning-highway.webp" alt="Blue lightning bolts striking across a highway during a race" style="width:100%; border-radius:6px;"/>
     <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Lightning on the highway</p>
   </div>
 </div>
 
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; margin:1.5rem 0;">
   <div>
-    <img src="rog-lightning-burst.png" alt="Lightning burst exploding outward in a destroyed urban environment" style="width:100%; border-radius:6px;"/>
+    <img src="rog-lightning-burst.webp" alt="Lightning burst exploding outward in a destroyed urban environment" style="width:100%; border-radius:6px;"/>
     <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Lightning burst — urban combat</p>
   </div>
   <div>
-    <img src="rog-lightning-arc.png" alt="Lightning arcing across the sky above a ruined cityscape" style="width:100%; border-radius:6px;"/>
+    <img src="rog-lightning-arc.webp" alt="Lightning arcing across the sky above a ruined cityscape" style="width:100%; border-radius:6px;"/>
     <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Lightning arc — wide city shot</p>
   </div>
 </div>
 
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; margin:1.5rem 0;">
   <div>
-    <img src="rog-speed-effect.png" alt="Radial speed blur with purple and blue light streaks" style="width:100%; border-radius:6px;"/>
+    <img src="rog-speed-effect.webp" alt="Radial speed blur with purple and blue light streaks" style="width:100%; border-radius:6px;"/>
     <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Speed effect — race sequence</p>
   </div>
   <div>
-    <img src="rog-pixelation-effect.png" alt="Tron-like light arc and pixelation effect" style="width:100%; border-radius:6px;"/>
+    <img src="rog-pixelation-effect.webp" alt="Tron-like light arc and pixelation effect" style="width:100%; border-radius:6px;"/>
     <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Tron-like effect and lightning — transition</p>
   </div>
 </div>

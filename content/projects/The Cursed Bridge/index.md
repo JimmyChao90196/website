@@ -2,7 +2,7 @@
 title: "The Cursed Bridge"
 date: 2026-06-03
 description: "A movie at Moonshine Animation. I did the ghost wall effect and the glass shatter."
-featureimage: "feature.png"
+featureimage: "feature.webp"
 tags: ["houdini", "film", "vfx"]
 showTableOfContents: true
 showTaxonomies: true
@@ -20,7 +20,7 @@ All the VFX behind the scenes was done by **Moonshine Animation**. Big team on t
 
 Hands and faces pushing through a wall surface. Initially I wanted to achieve the effect without using Vellum simulation. Then I realized that having an extra layer of motion is pretty nice. So I ended up blending two things together.
 
-![Houdini FX preview of the ghost wall geometry](cursed-bridge-fx-preview.png)
+![Houdini FX preview of the ghost wall geometry](cursed-bridge-fx-preview.webp)
 
 ---
 
@@ -32,15 +32,15 @@ The nice thing about having it layered is the director can ask for changes and y
 
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; margin:1.5rem 0;">
   <div>
-    <img src="cursed-bridge-glass-shatter-full.png" alt="Glass exploding outward in the elevator" style="width:100%; border-radius:6px;"/>
+    <img src="cursed-bridge-glass-shatter-full.webp" alt="Glass exploding outward in the elevator" style="width:100%; border-radius:6px;"/>
     <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Full glass explosion</p>
   </div>
   <div>
-    <img src="cursed-bridge-glass-shatter-ceiling.png" alt="Looking up through layers of shattered glass" style="width:100%; border-radius:6px;"/>
+    <img src="cursed-bridge-glass-shatter-ceiling.webp" alt="Looking up through layers of shattered glass" style="width:100%; border-radius:6px;"/>
     <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Looking up through the ceiling</p>
   </div>
 </div>
 
 The final comp with the actor below is the compositing team's work.
 
-![Final comp with the actor — comp by the compositing team](cursed-bridge-glass-comp.png)
+![Final comp with the actor — comp by the compositing team](cursed-bridge-glass-comp.webp)
