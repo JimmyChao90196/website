@@ -1,8 +1,8 @@
 ---
 title: "ROG | RE:SET"
 date: 2026-05-10
-description: "A commercial VFX project I worked on at Moonshine Animation — fireworks, lightning, particles, smoke, and a few effects I'd never tried before."
-featureimage: "img/mock/project.svg"
+description: "A commercial VFX project produced at Moonshine Animation — particle simulations, lightning, fireworks, and stylized effects for the ROG RE:SET cinematic."
+featureimage: "feature.png"
 tags: ["houdini", "commercial"]
 showTableOfContents: true
 showTaxonomies: true
@@ -12,18 +12,21 @@ showTaxonomies: true
 
 ## Overview
 
-This is a commercial cinematic I worked on at **Moonshine Animation** for ASUS Republic of Gamers. The story is set in this gritty cyberpunk racing world — neon signs, destroyed cities, a crowd losing their minds in an arena. Good vibes.
+**ROG | RE:SET** is a commercial cinematic produced at **Moonshine Animation** for ASUS Republic of Gamers. 
 
-My job was the FX. Every spark, explosion, lightning arc, and fireworks burst you see in this video came from Houdini. It was one of the more intense projects I've done — tight deadlines, a lot of effects, and most of them needed to look good in the same frame without stepping on each other.
+My role focused entirely on the **VFX side**: designing and simulating the effects that punctuate the key story beats. Sparks, lightning strike, every burst of fireworks in this piece went through Houdini.
 
-Here's what I was responsible for:
+---
 
-- Rainbow effect
-- Fireworks & particle simulation
-- Smoke simulation
-- Lightning effect
-- Pixelation effect
-- Comp in Nuke
+## My Contributions
+
+| Effect | Tool |
+|---|---|
+| Rainbow effect | Houdini |
+| Fireworks & particle simulation | Houdini |
+| Smoke simulation | Houdini |
+| Lightning effect | Houdini |
+| Pixelation effect | Houdini |
 
 ---
 
@@ -31,24 +34,24 @@ Here's what I was responsible for:
 
 ### Rainbow Effect
 
-This one shows up on the big live screen in the arena — a wave of colour sweeping across as the crowd reacts. The world has this very neon, over-the-top aesthetic so the effect needed to feel loud and saturated. Matching the energy of the scene without looking out of place was the main challenge here.
+The rainbow streaks appear on the live broadcast screen during the crowd sequence — a wave of colour washing over the arena as the crowd reacts. The effect needed to feel vibrant and slightly surreal to match the cyberpunk aesthetic of the world.
 
-![Rainbow streaks on the live broadcast screen in the arena](rog-rainbow-effect.png)
+![Rainbow effect streaking across the live broadcast screen](rog-rainbow-effect.png)
 
 ---
 
 ### Fireworks & Particle Simulation
 
-There are two fireworks moments. The first is a dense particle trail cascading down the race track — a wall of purple embers that needed to feel heavy and physical. The second is the hero shot: the ROG logo igniting in the sky. That one had to be readable at distance, which meant a lot of tuning on the burst shapes.
+Two distinct fireworks moments in the spot. The first is a dense particle trail cascading down the race track — millions of purple embers filling the frame. The second is the hero beat: the ROG logo igniting in the sky as a fireworks burst, a centrepiece shot that needed to read clearly even at distance.
 
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; margin:1.5rem 0;">
   <div>
-    <img src="rog-particle-fireworks.png" alt="Purple particle trail falling across the race track" style="width:100%; border-radius:6px;"/>
-    <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Particle trail on the track</p>
+    <img src="rog-particle-fireworks.png" alt="Pixelation effect" style="width:100%; border-radius:6px;"/>
+    <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Particle trail — race track sequence</p>
   </div>
   <div>
-    <img src="rog-fireworks-logo.png" alt="ROG logo shape formed by fireworks bursting in the night sky" style="width:100%; border-radius:6px;"/>
-    <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">ROG logo fireworks — the hero beat</p>
+    <img src="rog-fireworks-logo.png" alt="ROG logo formed in fireworks bursting in the night sky" style="width:100%; border-radius:6px;"/>
+    <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">ROG logo fireworks — hero beat</p>
   </div>
 </div>
 
@@ -56,27 +59,27 @@ There are two fireworks moments. The first is a dense particle trail cascading d
 
 ### Lightning Effect
 
-Honestly this was the trickiest part. Lightning runs through several shots — tight on the character's face, then wide over a ruined city, then back in close during a fight. The hard thing with lightning is it can easily look random and cheap. You want it to feel intentional, like it has weight and direction. A lot of the work was in the seeding and damping to get shapes that actually read well on screen.
+The lightning runs through several shots — from close on the character's face as energy crackles around him, to wide city shots where arcs tear across the skyline. Houdini's wire solver was used to drive the branching behaviour, keeping it physically believable while still being stylised enough to read as supernatural.
 
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; margin:1.5rem 0;">
   <div>
-    <img src="rog-lightning-character.png" alt="Red energy crackling around the character's face in close-up" style="width:100%; border-radius:6px;"/>
-    <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Energy surge — character close-up</p>
+    <img src="rog-lightning-character.png" alt="Red energy and lightning crackling around the character's face" style="width:100%; border-radius:6px;"/>
+    <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Character close-up — energy surge</p>
   </div>
   <div>
-    <img src="rog-lightning-highway.png" alt="Blue lightning bolts striking across a highway at speed" style="width:100%; border-radius:6px;"/>
+    <img src="rog-lightning-highway.png" alt="Blue lightning bolts striking across a highway during a race" style="width:100%; border-radius:6px;"/>
     <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Lightning on the highway</p>
   </div>
 </div>
 
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; margin:1.5rem 0;">
   <div>
-    <img src="rog-lightning-burst.png" alt="Lightning burst exploding outward in an urban environment" style="width:100%; border-radius:6px;"/>
-    <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Lightning burst in the city</p>
+    <img src="rog-lightning-burst.png" alt="Lightning burst exploding outward in a destroyed urban environment" style="width:100%; border-radius:6px;"/>
+    <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Lightning burst — urban combat</p>
   </div>
   <div>
-    <img src="rog-lightning-arc.png" alt="Lightning arc stretching across the sky above a ruined cityscape" style="width:100%; border-radius:6px;"/>
-    <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Wide city shot — lightning arc</p>
+    <img src="rog-lightning-arc.png" alt="Lightning arcing across the sky above a ruined cityscape" style="width:100%; border-radius:6px;"/>
+    <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Lightning arc — wide city shot</p>
   </div>
 </div>
 
@@ -84,16 +87,16 @@ Honestly this was the trickiest part. Lightning runs through several shots — t
 
 ### Speed & Pixelation Effect
 
-The speed effect is pretty much just making you feel like you're inside the race — radial blur, streaking light, the whole thing. The pixelation effect is more of a stylistic device that fits the ROG brand language, that digital-glitch look they use a lot. Both of these ended up being quicker to nail than the lightning, which was a relief.
+The speed effect gives the racing sequences their sense of raw velocity — a radial blur with streaking light that places the camera right inside the action. The pixelation effect is used as a stylistic transition, echoing the digital-glitch visual language of the ROG brand.
 
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; margin:1.5rem 0;">
   <div>
-    <img src="rog-speed-effect.png" alt="Radial speed blur with purple and blue streaking light" style="width:100%; border-radius:6px;"/>
-    <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Speed effect</p>
+    <img src="rog-speed-effect.png" alt="Radial speed blur with purple and blue light streaks" style="width:100%; border-radius:6px;"/>
+    <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Speed effect — race sequence</p>
   </div>
   <div>
-    <img src="rog-pixelation-effect.png" alt="Pixelation and light beam effect in a post-apocalyptic city" style="width:100%; border-radius:6px;"/>
-    <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Pixelation effect</p>
+    <img src="rog-pixelation-effect.png" alt="Pixelation and light beam effect in a ruined cityscape" style="width:100%; border-radius:6px;"/>
+    <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Pixelation effect — transition</p>
   </div>
 </div>
 
@@ -101,6 +104,6 @@ The speed effect is pretty much just making you feel like you're inside the race
 
 ## Reflection
 
-Looking back, the biggest thing I took from this project is that FX work in a commercial pipeline is a different kind of pressure than personal projects. You're not just making something that looks cool — it has to look cool, fit the shot, match the comp, and be done by tomorrow. That combination pushes you to work faster and make decisions with less iteration than you'd normally allow yourself.
+This was one of the more demanding commercial projects I've worked on — tight deadlines, high visual bar, and a lot of effects needing to coexist in the same frame without fighting each other. The biggest challenge was the lightning: making branching arcs feel intentional and art-directed rather than random. A lot of iteration went into the seeding and damping parameters to get the shapes to read well on screen.
 
-The lightning was where I spent most of my time, and it's also what I'm most proud of in this piece. Getting those arcs to feel deliberate and art-directed rather than random — that's the whole game with lightning in Houdini.
+Working in Houdini for simulation and handing off to Nuke for compositing was a smooth pipeline, and it was satisfying to see effects that started as point clouds and wire solvers end up in a polished commercial.
