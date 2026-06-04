@@ -35,7 +35,7 @@ The signature effect of the spot. Big arcing wings of lightning that spread out 
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; margin:1.5rem 0;">
   <div>
     <img src="msi-sword-lightning-wing-burst.webp" alt="Lightning wing bursting from the armored character in close-up" style="width:100%; border-radius:6px;"/>
-    <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Lightning wing — close-up burst</p>
+    <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Lightning wing — close-up</p>
   </div>
   <div>
     <img src="msi-sword-lightning-wing-combat.webp" alt="Lightning wing arcing between fighters in combat" style="width:100%; border-radius:6px;"/>
@@ -46,11 +46,11 @@ The signature effect of the spot. Big arcing wings of lightning that spread out 
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; margin:1.5rem 0;">
   <div>
     <img src="msi-sword-screen-combat.webp" alt="Combat scene with lightning shown on MSI laptop screen" style="width:100%; border-radius:6px;"/>
-    <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">On the MSI screen — combat</p>
+    <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Combat</p>
   </div>
   <div>
     <img src="msi-sword-hero.webp" alt="Hero key art — MSI laptop with character and full lightning wings" style="width:100%; border-radius:6px;"/>
-    <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Hero key art — full wing spread</p>
+    <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Hero key art</p>
   </div>
 </div>
 
@@ -63,11 +63,11 @@ Two beam moments. One is a tight combat shot — a pillar of white light crashin
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; margin:1.5rem 0;">
   <div>
     <img src="msi-sword-light-beam-combat.webp" alt="Massive light beam pillar hitting the ground between two fighters" style="width:100%; border-radius:6px;"/>
-    <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Light beam — combat</p>
+    <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Light beam</p>
   </div>
   <div>
     <img src="msi-sword-light-beam-castle.webp" alt="Light beams raining down on a castle landscape on the MSI screen" style="width:100%; border-radius:6px;"/>
-    <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Light beams — castle landscape</p>
+    <p style="font-size:0.8rem; color:gray; margin-top:6px; text-align:center;">Light beams — landscape</p>
   </div>
 </div>
 
