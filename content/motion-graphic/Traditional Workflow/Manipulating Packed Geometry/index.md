@@ -11,13 +11,15 @@ showTableOfContents: true
 showTaxonomies: true
 ---
 
-## Introduction
 {{< youtube 24X19-xBYg0 >}}
 
+## Introduction
 
 I recently took a motion design course on Rebelway, and I'd like to share some thoughts and insights on the techniques I learned. In this chapter, we will be working with packed geometry and how to apply transformations and scaling to it. Each individual button you see in the video consists of two distinct packed geometries.
 
 ![Houdini Node Setup](Manipulating_packed_geometry.jpg)
+
+This article will focus on four nodes: `pivot`, `cycle`, `scale`, `translation`.
 
 ---
 
