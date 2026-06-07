@@ -163,9 +163,9 @@ The `clamp(drive, 0.01, 0.99)` at the top. You need that to prevent degenerate t
 
 ![Primary and secondary extrusion](Primary_n_Secondary_Extrusion.webp)
 
-The extrusion amount is randomized per prim and then multiplied by `active` run through a ramp —so extrusion only kicks in as the wipe activates each triangle.
+The extrusion amount is randomized per `class` for the primary extrusion and per prim for the secondary extrusion, and then multiplied by `active` run through a ramp —so extrusion only kicks in as the wipe activates each triangle.
 
-One thing worth setting up now even if you don't need it yet: in the PolyExtrude node, enable Extrude Front Group and Extrude Side Group. Having them means you can target specific faces in the later extrusion passes.
+Remember to enable `Extrude Front Group` and `Extrude Side Group`. Having them means you can target specific faces in the later extrusion passes.
 
 ```c
 f@amt_B = fit01(rand(@primnum + 1111), 0.05, 0.5);
@@ -181,7 +181,7 @@ f@amt_B += 0.001;
 
 ![Secondary subdivision result](Secondary_Subdivision.webp)
 
-The second subdivision pass works on geometry that came out of the primary extrusion. This time, instead of splitting each triangle into four, I split it into six. And instead of `lerp`-based animation, this pass uses `cos` to drive the motion.
+The second subdivision pass works on geometry that came out of the extrusion. This time, instead of splitting each triangle into four, I split it into six. And uses `cos` to drive the motion.
 
 You could argue all the subdivision should happen at the start. And you'd probably be right. But by doing things sequentially, you can cache out and verify the primary motion before committing to secondary detail.
 
@@ -242,7 +242,7 @@ foreach(int prim; innerPrims) {
 
 ![Tertiary extrusion result](Tertiary_Extrusion.webp)
 
-The third extrusion layer reads from `activeB` instead of `active`, so it's offset one step behind the secondary pass. The amount is also affected by the `area` attribute —smaller triangles extrude less, which stops tiny geometry from turning into visual noise.
+The amount is also affected by the `area` attribute —smaller triangles extrude less, which stops tiny geometry from turning into noise.
 
 ```c
 f@amt_C = fit01(rand(i@id2 + 1111), 0.5, 2);

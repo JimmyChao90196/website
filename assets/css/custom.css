@@ -28,7 +28,7 @@ body:not(:has(#background-image))::before {
       rgb(10 14 22 / var(--site-page-bg-overlay-top)),
       rgb(10 14 22 / var(--site-page-bg-overlay-bottom))
     ),
-    url("/img/home-technical-art-bg.png") center / cover no-repeat;
+    url("/img/rog-lightning-highway.png") center / cover no-repeat;
   filter: blur(var(--site-page-bg-blur)) saturate(var(--site-page-bg-saturate));
   opacity: var(--site-page-bg-opacity);
   transform: scale(1.04);

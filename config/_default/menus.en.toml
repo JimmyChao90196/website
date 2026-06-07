@@ -73,18 +73,6 @@
   weight = 20
 
 [[main]]
-  name = "Python for Houdini"
-  parent = "Python"
-  pageRef = "python/houdini"
-  weight = 10
-
-[[main]]
-  name = "Python for Maya"
-  parent = "Python"
-  pageRef = "python/maya"
-  weight = 20
-
-[[main]]
   name = "Motion Graphic"
   pageRef = "motion-graphic"
   weight = 40
