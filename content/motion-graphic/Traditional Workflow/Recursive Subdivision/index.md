@@ -175,8 +175,6 @@ f@amt_B *= chramp("remap", f@activeB);
 f@amt_B += 0.001;
 ```
 
-The `+= 0.001` at the end keeps the extrusion amount above zero. Zero extrusion collapses faces and causes issues you don't want to debug.
-
 ---
 
 ## Secondary Subdivision
@@ -261,4 +259,3 @@ f@amt_C += 0.001;
 The recursive subdivision setup is genuinely satisfying once it's working. The key insight is using `iteration` as a behavioral switch —alternating clockwise vs counterclockwise rotation comes for free because of how `abs(iter - drive)` flips between the two iterations.
 
 Thanks to Chris for the course —the layered extrusion structure is such a cool pattern worth keeping in the toolkit.
-
