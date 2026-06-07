@@ -85,37 +85,14 @@
   weight = 20
 
 [[main]]
-  name = "Rigging"
-  pageRef = "rigging"
-  weight = 30
-
-[[main]]
-  name = "Rigging for Houdini"
-  parent = "Rigging"
-  pageRef = "rigging/houdini"
-  weight = 10
-
-[[main]]
-  name = "Rigging for Maya"
-  parent = "Rigging"
-  pageRef = "rigging/maya"
-  weight = 20
-
-[[main]]
   name = "Motion Graphic"
   pageRef = "motion-graphic"
   weight = 40
 
 [[main]]
-  name = "AI Hybrid Workflow"
-  parent = "Motion Graphic"
-  pageRef = "motion-graphic/ai-hybrid"
-  weight = 10
-
-[[main]]
   name = "Traditional Workflow"
   parent = "Motion Graphic"
-  pageRef = "motion-graphic/traditional"
+  pageRef = "motion-graphic/traditional-workflow"
   weight = 20
 
 [[main]]
