@@ -30,7 +30,7 @@ A commercial done at **Moonshine Animation** for MSI. The whole thing is built i
 
 ### Lightning Wing
 
-The signature effect of the spot. Big arcing wings of lightning that spread out from the character. You can see it most clearly in the hero shot — the character standing behind the laptop with the wings fully extended. It also shows up in the combat scenes, which is where it needed to feel a bit more dynamic and reactive rather than just decorative.
+The signature effect of the spot. Big arcing wings of lightning spreading out from the character. It's most visible in the hero shot — the character standing behind the laptop with the wings fully extended. It also shows up in the combat scenes, where I needed it to feel more dynamic and reactive rather than just decorative.
 
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; margin:1.5rem 0;">
   <div>

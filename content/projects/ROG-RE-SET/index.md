@@ -98,4 +98,4 @@ The lightning and tron-like trail runs through several shots — from close on t
 
 ## Reflection
 
-This was one of the more demanding commercial projects I've worked on — high visual bar, and a lot of effects needing to coexist in the same frame without fighting each other. The biggest challenge was the lightning and tron-like arc. A lot of iteration went into the seeding and damping parameters to get the shapes to read well on screen.
+This was one of the more demanding commercial projects I've worked on — high visual bar, and a lot of effects needing to coexist in the same frame without fighting each other. A lot of iteration went into the seeding and damping parameters to get the shapes to read well on screen.

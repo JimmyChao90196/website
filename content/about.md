@@ -11,7 +11,7 @@ Jun-Yu Zhao (趙俊宇). FX artist, technical artist, and currently an iOS engin
 
 ## Background
 
-I studied **Multimedia Design** at National Formosa University (2016–2020), which is where I got into 3D seriously. After graduating I joined Moonshine Animation as a Technical Artist working on Unreal Engine LED virtual production, then moved into FX work — simulations, procedural effects, all the Houdini stuff. I was there from 2020 to 2023.
+I studied Multimedia Design at National Formosa University (2016–2020), which is where I got into 3D seriously. After graduating I joined Moonshine Animation as a Technical Artist working on Unreal Engine LED virtual production, then moved into FX work — simulations, procedural effects, all the Houdini stuff. I was there from 2020 to 2023.
 
 During those three years I worked on commercials and films — ROG, MSI, Asus, Acer, Mayday's New Year's Eve Concert, and a few others. I also mentored intern FX classes three times, and taught UE FX at Dream Ark.
 
