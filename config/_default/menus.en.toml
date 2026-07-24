@@ -84,9 +84,50 @@
   weight = 20
 
 [[main]]
+  name = "Anatomy"
+  pageRef = "anatomy"
+  weight = 60
+
+[[main]]
+  name = "Head"
+  parent = "Anatomy"
+  pageRef = "anatomy/head"
+  weight = 10
+
+[[main]]
+  name = "Arm"
+  parent = "Anatomy"
+  pageRef = "anatomy/arm"
+  weight = 20
+
+[[main]]
+  name = "Torso"
+  parent = "Anatomy"
+  pageRef = "anatomy/torso"
+  weight = 30
+
+[[main]]
+  name = "Lower Body"
+  parent = "Anatomy"
+  pageRef = "anatomy/lower-body"
+  weight = 40
+
+[[main]]
+  name = "Hand"
+  parent = "Anatomy"
+  pageRef = "anatomy/hand"
+  weight = 50
+
+[[main]]
+  name = "Full Body"
+  parent = "Anatomy"
+  pageRef = "anatomy/full-body"
+  weight = 60
+
+[[main]]
   name = "Projects"
   pageRef = "projects"
-  weight = 50
+  weight = 70
 
 
 # -- Footer Menu --

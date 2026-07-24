@@ -5,7 +5,7 @@ showTableOfContents: false
 
 ## Hey, I'm Jimmy.
 
-Jun-Yu Zhao (趙俊宇). FX artist, technical artist, and currently an iOS engineer — yeah, it's a weird combination. I'm heading to SCAD to do my MFA, which is the next step in putting the art side front and centre again.
+Jun-Yu Zhao (趙俊宇). iOS engineer by day, sculptor and FX artist after hours — yeah, it's a weird combination.
 
 ---
 
@@ -17,7 +17,7 @@ During those three years I worked on commercials and films — ROG, MSI, Asus, A
 
 Then, for financial reasons, I took a detour into iOS engineering. I joined AppWorks School for training, then landed at Tri-Service General Hospital where I solely built and maintained their internal app, and helped develop an AI-powered ECG detection app. It wasn't the plan, but it wasn't wasted time either — it made me a much more logical thinker, which turns out to be pretty useful when you're writing VEX.
 
-Now I'm on my way back to art. SCAD, then wherever that leads.
+The plan, eventually, is to sculpt with no deadline attached — no project, no brief, just the form.
 
 ---
 
