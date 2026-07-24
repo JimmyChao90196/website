@@ -10,11 +10,14 @@ showTaxonomies: true
 
 Two arm practice sessions — one focusing on the male form, one on female. Main challenge was keeping the deltoid-to-bicep transition readable without overworking it.
 
-![](feature.webp)
-
-![](arm01.webp) ![](arm03.webp) ![](arm05.webp)
-
-![](female_arm.webp) ![](male_arm.webp)
+{{< gallery >}}
+  <img src="feature.webp" class="grid-w100" />
+  <img src="arm01.webp" class="grid-w100 md:grid-w50" />
+  <img src="arm03.webp" class="grid-w100 md:grid-w50" />
+  <img src="arm05.webp" class="grid-w100 md:grid-w50" />
+  <img src="female_arm.webp" class="grid-w100 md:grid-w50" />
+  <img src="male_arm.webp" class="grid-w100 md:grid-w50" />
+{{< /gallery >}}
 
 ---
 

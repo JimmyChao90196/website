@@ -10,15 +10,25 @@ showTaxonomies: true
 
 Full figure studies — male and female. This is where all the individual part studies get tested. Getting proportions to hold across the whole figure is a different problem than getting one body part right.
 
-![](feature.webp)
+{{< gallery >}}
+  <img src="feature.webp" class="grid-w100" />
+{{< /gallery >}}
 
 **Male**
 
-![](male01.webp) ![](male02.webp) ![](male03.webp) ![](male04.webp)
+{{< gallery >}}
+  <img src="male01.webp" class="grid-w50 md:grid-w25" />
+  <img src="male02.webp" class="grid-w50 md:grid-w25" />
+  <img src="male03.webp" class="grid-w50 md:grid-w25" />
+  <img src="male04.webp" class="grid-w50 md:grid-w25" />
+{{< /gallery >}}
 
 **Female**
 
-![](female01.webp) ![](female02.webp)
+{{< gallery >}}
+  <img src="female01.webp" class="grid-w50" />
+  <img src="female02.webp" class="grid-w50" />
+{{< /gallery >}}
 
 ---
 

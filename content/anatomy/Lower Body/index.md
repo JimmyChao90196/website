@@ -10,11 +10,15 @@ showTaxonomies: true
 
 Legs, glutes, and feet across multiple sessions. Covered male, female, bent poses, and a semi-stylized écorché pass to understand the muscle wrapping before adding skin.
 
-![](feature.webp)
-
-![](female_leg.webp) ![](male_leg.webp) ![](ecorche_leg.webp)
-
-![](bend_leg.webp) ![](female_feet.webp) ![](planar_feet.webp)
+{{< gallery >}}
+  <img src="feature.webp" class="grid-w100" />
+  <img src="female_leg.webp" class="grid-w100 md:grid-w50" />
+  <img src="male_leg.webp" class="grid-w100 md:grid-w50" />
+  <img src="ecorche_leg.webp" class="grid-w100 md:grid-w50" />
+  <img src="bend_leg.webp" class="grid-w100 md:grid-w50" />
+  <img src="female_feet.webp" class="grid-w100 md:grid-w50" />
+  <img src="planar_feet.webp" class="grid-w100 md:grid-w50" />
+{{< /gallery >}}
 
 ---
 

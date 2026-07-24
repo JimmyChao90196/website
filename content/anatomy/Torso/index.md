@@ -10,11 +10,14 @@ showTaxonomies: true
 
 Torso studies covering male, female, and écorché. The planar version was useful for getting the big planes right before committing to surface detail.
 
-![](feature.webp)
-
-![](010.webp) ![](015.webp) ![](female_torso.webp)
-
-![](planer_torso.webp) ![](torso_ecorche.webp)
+{{< gallery >}}
+  <img src="feature.webp" class="grid-w100" />
+  <img src="010.webp" class="grid-w100 md:grid-w50" />
+  <img src="015.webp" class="grid-w100 md:grid-w50" />
+  <img src="female_torso.webp" class="grid-w100 md:grid-w50" />
+  <img src="planer_torso.webp" class="grid-w100 md:grid-w50" />
+  <img src="torso_ecorche.webp" class="grid-w100 md:grid-w50" />
+{{< /gallery >}}
 
 ---
 

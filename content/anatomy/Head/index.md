@@ -10,11 +10,14 @@ showTaxonomies: true
 
 Two rounds of head anatomy. First pass was about getting the major landmarks right — brow ridge, zygomatic arch, chin. Second pass pushed into surface detail and expression.
 
-![](feature.webp)
-
-![](03.webp) ![](04.webp) ![](05.webp)
-
-![](08.webp) ![](11.webp)
+{{< gallery >}}
+  <img src="feature.webp" class="grid-w100" />
+  <img src="03.webp" class="grid-w100 md:grid-w50" />
+  <img src="04.webp" class="grid-w100 md:grid-w50" />
+  <img src="05.webp" class="grid-w100 md:grid-w50" />
+  <img src="08.webp" class="grid-w100 md:grid-w50" />
+  <img src="11.webp" class="grid-w100 md:grid-w50" />
+{{< /gallery >}}
 
 ---
 

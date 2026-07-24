@@ -10,11 +10,14 @@ showTaxonomies: true
 
 Hands are famously annoying. Practiced neutral male, neutral female, and a stylized version to see how far you can push proportions before it stops reading as a hand.
 
-![](feature.webp)
-
-![](hand01.webp) ![](hand10.webp) ![](neutral_hand.webp)
-
-![](neutral_hand2.webp) ![](stylized_hand.webp)
+{{< gallery >}}
+  <img src="feature.webp" class="grid-w100" />
+  <img src="hand01.webp" class="grid-w100 md:grid-w50" />
+  <img src="hand10.webp" class="grid-w100 md:grid-w50" />
+  <img src="neutral_hand.webp" class="grid-w100 md:grid-w50" />
+  <img src="neutral_hand2.webp" class="grid-w100 md:grid-w50" />
+  <img src="stylized_hand.webp" class="grid-w100 md:grid-w50" />
+{{< /gallery >}}
 
 ---
 
