@@ -55,12 +55,12 @@
 [[main]]
   name = "About"
   pageRef = "about"
-  weight = 90
+  weight = 40
 
 [[main]]
   name = "Anatomy"
   pageRef = "anatomy"
-  weight = 60
+  weight = 10
 
 [[main]]
   name = "Head"
@@ -101,7 +101,7 @@
 [[main]]
   name = "Motion Graphic"
   pageRef = "motion-graphic"
-  weight = 40
+  weight = 20
 
 [[main]]
   name = "Traditional Workflow"
@@ -112,7 +112,7 @@
 [[main]]
   name = "Projects"
   pageRef = "projects"
-  weight = 70
+  weight = 30
 
 
 # -- Footer Menu --
