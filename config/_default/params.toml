@@ -17,7 +17,7 @@ enableStructuredBreadcrumbs = false
 
 replyByEmail = false
 
-mainSections = ["projects"]
+mainSections = ["anatomy","projects"]
 # robots = ""
 
 disableImageOptimization = false
@@ -61,7 +61,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showRecent = true
   showRecentItems = 3
   showMoreLink = true
-  showMoreLinkDest = "/projects/"
+  showMoreLinkDest = "/anatomy/"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background

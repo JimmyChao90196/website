@@ -5,6 +5,6 @@ description: "FX breakdowns, Houdini notes, sculpting studies, and project write
 
 By day, I write iOS. After hours, I sculpt.
 
-Three years at Moonshine Animation doing VFX — particles, simulations, lightning, glass, procedural everything. The technical side never really left.
+Mostly heads, hands, figures — chasing anatomy until it finally looks right. I came into this from VFX (three years at Moonshine Animation making FX in Houdini).
 
-This site is where I write things down so I don't forget them. Notes on Houdini, VEX breakdowns, anatomy studies, and project writeups. If something here is useful to you, great.
+One day I want to sculpt just to sculpt. No deadline, no brief, just the form.

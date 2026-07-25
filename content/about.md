@@ -5,7 +5,7 @@ showTableOfContents: false
 
 ## Hey, I'm Jimmy.
 
-Jun-Yu Zhao (趙俊宇). iOS engineer by day, sculptor and FX artist after hours — yeah, it's a weird combination.
+Jun-Yu Zhao (趙俊宇). iOS engineer by day, 3D sculptor after hours — yeah, it's a weird combination.
 
 ---
 
@@ -15,23 +15,19 @@ I studied Multimedia Design at National Formosa University (2016–2020), which 
 
 During those three years I worked on commercials and films — ROG, MSI, Asus, Acer, Mayday's New Year's Eve Concert, and a few others. I also mentored intern FX classes three times, and taught UE FX at Dream Ark.
 
-Then, for financial reasons, I took a detour into iOS engineering. I joined AppWorks School for training, then landed at Tri-Service General Hospital where I solely built and maintained their internal app, and helped develop an AI-powered ECG detection app. It wasn't the plan, but it wasn't wasted time either — it made me a much more logical thinker, which turns out to be pretty useful when you're writing VEX.
+Then, for financial reasons, I took a detour into iOS engineering. I joined AppWorks School for training, then landed at Tri-Service General Hospital where I solely built and maintained their internal app, and helped develop an AI-powered ECG detection app. It wasn't the plan, but it wasn't wasted time either — it made me a much more logical thinker.
 
-The plan, eventually, is to sculpt with no deadline attached — no project, no brief, just the form.
+Somewhere in the middle of all that, I started sculpting after work — just anatomy studies at first, then heads, hands, whole figures. It scratched an itch the day job couldn't. What began as a way to unwind slowly turned into the thing I actually care about most.
 
 ---
 
 ## What I do
 
-**FX & Simulations** — particles, rigid bodies, cloth, smoke, fluids. Mostly Houdini, some Niagara in Unreal.
+**Sculpting** — anatomy, mostly. Heads, hands, the whole figure.
 
-**Procedural everything** — procedural modelling, procedural materials, procedural effects. If there's a parameter to expose, I'll expose it.
+**iOS Development** — Swift, SwiftUI/UIKit. Solely built and maintained a hospital's internal app, and helped develop an AI-powered ECG detection app.
 
-**Rendering** — Karma (Houdini), Arnold, real-time in Unreal Engine.
-
-**Compositing** — Nuke, mostly for integrating FX into live action and CG.
-
-**Technical / Engineering** — VEX, Python, iOS/Swift. The coding background means I'm comfortable writing tools and pipeline stuff, not just pushing nodes.
+**FX & Procedural** — particles, rigid bodies, cloth, smoke, fluids, and procedural everything in Houdini. Rendering in Karma and Arnold, compositing in Nuke, some real-time in Unreal.
 
 ---
 
@@ -73,9 +69,5 @@ The plan, eventually, is to sculpt with no deadline attached — no project, no 
 | ECG-Wizard | Contributor — AI-powered ECG detection app |
 
 ---
-
-## This site
-
-I keep forgetting how I solved things. So I write them down here. That's really it.
 
 **myname90196@gmail.com**

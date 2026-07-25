@@ -58,32 +58,6 @@
   weight = 90
 
 [[main]]
-  name = "Videos"
-  pageRef = "videos"
-  weight = 80
-
-[[main]]
-  name = "Vex"
-  pageRef = "vex"
-  weight = 10
-
-[[main]]
-  name = "Python"
-  pageRef = "python"
-  weight = 20
-
-[[main]]
-  name = "Motion Graphic"
-  pageRef = "motion-graphic"
-  weight = 40
-
-[[main]]
-  name = "Traditional Workflow"
-  parent = "Motion Graphic"
-  pageRef = "motion-graphic/traditional-workflow"
-  weight = 20
-
-[[main]]
   name = "Anatomy"
   pageRef = "anatomy"
   weight = 60
@@ -123,6 +97,17 @@
   parent = "Anatomy"
   pageRef = "anatomy/full-body"
   weight = 60
+
+[[main]]
+  name = "Motion Graphic"
+  pageRef = "motion-graphic"
+  weight = 40
+
+[[main]]
+  name = "Traditional Workflow"
+  parent = "Motion Graphic"
+  pageRef = "motion-graphic/traditional-workflow"
+  weight = 20
 
 [[main]]
   name = "Projects"
