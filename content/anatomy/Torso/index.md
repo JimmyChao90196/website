@@ -21,4 +21,6 @@ Torso studies covering male, female, and écorché. The planar version was usefu
 
 ---
 
-**Download files:** Coming soon.
+Free for personal use — grab the ZBrush file on Gumroad.
+
+{{< button href="https://jimmy-chao.gumroad.com/l/torsoanatomypractice" target="_blank" rel="noopener" >}}Download on Gumroad{{< /button >}}

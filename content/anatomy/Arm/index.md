@@ -21,4 +21,6 @@ Two arm practice sessions — one focusing on the male form, one on female. Main
 
 ---
 
-**Download files:** Coming soon.
+Free for personal use — grab the ZBrush file on Gumroad.
+
+{{< button href="https://jimmy-chao.gumroad.com/l/armanatomypractice" target="_blank" rel="noopener" >}}Download on Gumroad{{< /button >}}

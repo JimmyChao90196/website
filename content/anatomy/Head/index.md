@@ -21,4 +21,6 @@ Two rounds of head anatomy. First pass was about getting the major landmarks rig
 
 ---
 
-**Download files:** Coming soon.
+Free for personal use — grab the ZBrush file on Gumroad.
+
+{{< button href="https://jimmy-chao.gumroad.com/l/headanatomypractice" target="_blank" rel="noopener" >}}Download on Gumroad{{< /button >}}

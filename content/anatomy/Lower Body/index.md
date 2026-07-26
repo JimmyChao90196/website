@@ -22,4 +22,6 @@ Legs, glutes, and feet across multiple sessions. Covered male, female, bent pose
 
 ---
 
-**Download files:** Coming soon.
+Free for personal use — grab the ZBrush file on Gumroad.
+
+{{< button href="https://jimmy-chao.gumroad.com/l/lowerbodyanatomypractice" target="_blank" rel="noopener" >}}Download on Gumroad{{< /button >}}
