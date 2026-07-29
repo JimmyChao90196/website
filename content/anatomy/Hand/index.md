@@ -17,16 +17,9 @@ Hands are famously annoying. Practiced neutral male, neutral female, and a styli
   <img src="neutral_hand.webp" class="grid-w100 md:grid-w50" />
   <img src="neutral_hand2.webp" class="grid-w100 md:grid-w50" />
   <img src="stylized_hand.webp" class="grid-w100 md:grid-w50" />
-{{< /gallery >}}
-
-## Recent Practice
-
-A few recent hands.
-
-{{< gallery >}}
-  <img src="latest1.webp" class="grid-w100 md:grid-w33" />
-  <img src="latest2.webp" class="grid-w100 md:grid-w33" />
-  <img src="latest3.webp" class="grid-w100 md:grid-w33" />
+  <img src="latest1.webp" class="grid-w100 md:grid-w50" />
+  <img src="latest2.webp" class="grid-w100 md:grid-w50" />
+  <img src="latest3.webp" class="grid-w100 md:grid-w50" />
 {{< /gallery >}}
 
 ---
