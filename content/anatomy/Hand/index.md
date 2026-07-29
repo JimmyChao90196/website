@@ -19,6 +19,16 @@ Hands are famously annoying. Practiced neutral male, neutral female, and a styli
   <img src="stylized_hand.webp" class="grid-w100 md:grid-w50" />
 {{< /gallery >}}
 
+## Recent Practice
+
+A few recent hands.
+
+{{< gallery >}}
+  <img src="latest1.webp" class="grid-w100 md:grid-w33" />
+  <img src="latest2.webp" class="grid-w100 md:grid-w33" />
+  <img src="latest3.webp" class="grid-w100 md:grid-w33" />
+{{< /gallery >}}
+
 ---
 
 Free for personal use — grab the ZBrush file on Gumroad.

@@ -19,6 +19,16 @@ Two rounds of head anatomy. First pass was about getting the major landmarks rig
   <img src="11.webp" class="grid-w100 md:grid-w50" />
 {{< /gallery >}}
 
+## Recent Practice
+
+A few of the latest heads, straight from recent sessions.
+
+{{< gallery >}}
+  <img src="latest1.webp" class="grid-w100 md:grid-w33" />
+  <img src="latest2.webp" class="grid-w100 md:grid-w33" />
+  <img src="latest3.webp" class="grid-w100 md:grid-w33" />
+{{< /gallery >}}
+
 ---
 
 Free for personal use — grab the ZBrush file on Gumroad.

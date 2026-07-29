@@ -20,6 +20,16 @@ Legs, glutes, and feet across multiple sessions. Covered male, female, bent pose
   <img src="planar_feet.webp" class="grid-w100 md:grid-w50" />
 {{< /gallery >}}
 
+## Recent Practice
+
+Recent leg and lower-body work.
+
+{{< gallery >}}
+  <img src="latest1.webp" class="grid-w100 md:grid-w33" />
+  <img src="latest2.webp" class="grid-w100 md:grid-w33" />
+  <img src="latest3.webp" class="grid-w100 md:grid-w33" />
+{{< /gallery >}}
+
 ---
 
 Free for personal use — grab the ZBrush file on Gumroad.

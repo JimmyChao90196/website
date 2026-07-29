@@ -19,6 +19,14 @@ Two arm practice sessions — one focusing on the male form, one on female. Main
   <img src="male_arm.webp" class="grid-w100 md:grid-w50" />
 {{< /gallery >}}
 
+## Recent Practice
+
+A recent arm study.
+
+{{< gallery >}}
+  <img src="latest1.webp" class="grid-w100 md:grid-w50" />
+{{< /gallery >}}
+
 ---
 
 Free for personal use — grab the ZBrush file on Gumroad.
